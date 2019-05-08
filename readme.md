@@ -1,4 +1,4 @@
-##Artificial intelligence
+## Artificial intelligence
 
 # Program sprawdza najpierw wszystkie wektory, a następnie porównuje
 # Następnie pobiera kolejną paczkę która zaiwera kolejne rekordy razem z poprzednimi
